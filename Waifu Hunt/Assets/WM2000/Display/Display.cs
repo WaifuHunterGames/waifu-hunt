@@ -6,8 +6,8 @@ public class Display : MonoBehaviour
     [SerializeField] Terminal connectedToTerminal;
 
     // TODO calculate these two if possible
-    [SerializeField] int charactersWide = 40;
-    [SerializeField] int charactersHigh = 14;
+    [SerializeField] int charactersWide = 20;
+    [SerializeField] int charactersHigh = 7;
 
     Text screenText;
 
